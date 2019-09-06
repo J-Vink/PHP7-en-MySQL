@@ -1,0 +1,6 @@
+{
+    "localhost": {
+        "url": "http://localhost:8000",
+        "folder": "D:\MAMP\htdocs\php7&mysql"
+    }
+}
